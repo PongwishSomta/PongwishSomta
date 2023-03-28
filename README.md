@@ -1,9 +1,9 @@
-#### WELLCOME TO MY SPACE  💻
+<h1> WELLCOME TO MY SPACE  💻 </h1>
 
 <h3 align="left">Languages and Tools:</h3>
-<h1> Programing </h1>
+<h2> Programing </h2>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-<h1> Frontend Framework </h1>
+<h2> Frontend Framework </h2>
 
 <p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
