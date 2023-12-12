@@ -15,16 +15,12 @@
   </a> 
  </p>
 
- <p align="center">
-𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀:
- </p>
-
-
 <div align="center">
 	<p align="center">𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 👾</p>
 	<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"></img>
 	<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></img>
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
+	<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></img>
 </div>
 
 <p align="center">𝗕𝗮𝗰𝗸𝗲𝗻𝗱 🧠</p>
