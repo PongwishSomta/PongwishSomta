@@ -1,11 +1,9 @@
 <p align="center">
  <br> 
-𝙒𝙀𝙇𝘾𝙊𝙈𝙀 𝙏𝙊 𝙈𝙔 𝙎𝙋𝘼𝘾𝙀 💻 
+𝘞𝘦𝘭𝘤𝘰𝘮𝘦 𝘵𝘰 𝘮𝘺 𝘳𝘦𝘱𝘰 
  </br>
-𝗠𝘆 𝗡𝗮𝗺𝗲 𝗶𝘀 𝗣𝗼𝗻𝗴𝘄𝗶𝘀𝗵 𝗦𝗼𝗺𝘁𝗮 𝗔𝗞𝗔 𝗦𝘂𝗽𝗲𝗿𝗡𝗼𝘃𝗮
+𝘔𝘺 𝘯𝘢𝘮𝘦 𝘪𝘴 𝘗𝘰𝘯𝘨𝘸𝘪𝘴𝘩 𝘚𝘰𝘮𝘵𝘢 𝘖𝘳 𝘕𝘰𝘷𝘢
 </p>
-
-
 
 <p align="center">
  <a href="https://instagram.com/_nova.psx" targert="_blank">
@@ -16,29 +14,34 @@
  </p>
 
 <div align="center">
-	<p align="center">𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 👾</p>
-	<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"></img>
-	<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></img>
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
-	<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></img>
+	<p align="center">𝘍𝘳𝘰𝘯𝘵-𝘦𝘯𝘥 🎨 </p>
+	<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,svelte,tailwind,vue,vite&perline=4" />
+  </a>
 </div>
 
-<p align="center">𝗕𝗮𝗰𝗸𝗲𝗻𝗱 🧠</p>
+<p align="center">𝘉𝘢𝘤𝘬-𝘦𝘯𝘥 🧠</p>
 <div align="center">
-	
+	<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=express,nestjs" />
+  </a>
 </div>
 
-<p align="center">𝗠𝗼𝗯𝗹𝗶𝗲 📱</p>
+<p align="center">𝘋𝘢𝘵𝘢𝘣𝘢𝘴𝘦 💾</p>
 <div align="center">
-	
+	<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
+  </a>
 </div>
 
+<p align="center">𝘔𝘰𝘣𝘭𝘪𝘦 𝘋𝘦𝘷 📱</p>
+<div align="center">
+	<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
+  </a>
+</div>
 
-<p align="center">
- Level Up!!
-</p>
-
- 
+ <br/>
  <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=PongwishSomta&theme=neon-dark" alt="GitHub Streak" /></a>
  </p>
